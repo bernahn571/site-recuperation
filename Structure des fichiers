@@ -1,0 +1,5 @@
+/votre-site/
+├── index.html              ← Page d’accueil
+├── recuperation.html       ← Formulaire
+├── contact.html            ← Page contact
+└── style.css               ← Feuille de style commune
